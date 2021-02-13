@@ -34,6 +34,6 @@ for tentativa in 1..limite_de_tentativas
       puts 'Número escolhido é maior'
     else
       puts 'Número escolhido é menor'
-    end
+    end 
   end
 end
